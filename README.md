@@ -207,4 +207,4 @@ Squeak! is offered as a complete free version with all features and updates incl
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-13 09:05:32 UTC
+**Last updated:** 2026-11-13 17:30:00 UTC
